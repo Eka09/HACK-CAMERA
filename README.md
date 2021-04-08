@@ -1,4 +1,4 @@
-# HACK-CAMERA v1.0
+# HACK-CAMERA
 Take webcam shots from target just sending a malicious link
 
 
