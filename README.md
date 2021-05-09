@@ -16,6 +16,6 @@ Take webcam shots from target just sending a malicious link
 ```
 git clone https://github.com/Eka09/HACK-CAMERA
 cd HACK-CAMERA
-bash HACK-CAMERA
+bash HACK-CAMERA.sh
 ```
 
