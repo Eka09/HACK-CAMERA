@@ -8,13 +8,13 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-figlet "HACKCAMERA" | lolcat
-printf "\e[1;92m  \e[0m\e[1;77m                      \e[0m\n"
-printf "\e[1;92m  \e[0m\e[1;77m  \e[0m\n"
-printf "\e[1;92m  \e[0m\e[1;77m \e[0m\n"
-printf "\e[1;92m  \e[0m\e[1;77m \e[0m\n"
-printf "\e[1;92m \e[0m\e[1;77m\e[0m\n"
-printf "\e[1;92m               \e[0m                                 \n"
+
+                 
+
+
+
+
+toilet -f future --filter border:metal 'HACK-CAMERA' | lolcat
 
 printf " \e[1;77m v1.0 coded by github.com/Eka09/HACK-CAMERA.git\e[0m \n"
 
